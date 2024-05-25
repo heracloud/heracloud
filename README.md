@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <br>
 
+<br>
+<img src="https://img.shields.io/badge/swift-3776AB?style=for-the-badge&logo=swift&logoColor=white">
+</br>
+
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
